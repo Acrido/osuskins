@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last 22/10/2022
+last update 22/10/2022
 </p>
 
 # [acrid soft](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
