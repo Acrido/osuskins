@@ -8,5 +8,11 @@
 last update 22/10/2022
 </p>
 
-# [acrid soft](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
+# [acrid soft&clean](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
 [![](https://osu.ppy.sh/ss/18207139/7578)](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
+
+# [azerino default](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
+[![](https://osu.ppy.sh/ss/18207228/ff0b)](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
+
+# [haga old remake](https://github.com/Acrido/osuskins/raw/main/haga.osk)
+[![](https://osu.ppy.sh/ss/18207211/e0a7)](https://github.com/Acrido/osuskins/raw/main/haga.osk)
