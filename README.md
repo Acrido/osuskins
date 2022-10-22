@@ -8,5 +8,5 @@
 last 22/10/2022
 </p>
 
-# [acrid soft](https://github.com/Acrido/osuskins/blob/main/acrid%20soft.osk)
-[![](https://osu.ppy.sh/ss/18207139/7578)](https://github.com/Acrido/osuskins/blob/main/acrid%20soft.osk)
+# [acrid soft](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
+[![](https://osu.ppy.sh/ss/18207139/7578)](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
