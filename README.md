@@ -5,7 +5,7 @@
        width="150"
        height="150"></a>
 <br>
-last update 22/10/2022
+last update 25/10/2022
 </p>
 
 # [Aristia DT malisz edit](https://github.com/Acrido/osuskins/raw/main/Artistia%20DT.osk)
