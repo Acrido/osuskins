@@ -14,7 +14,7 @@ last update 25/10/2022
 # [Acrid soft + Ryanstolenfromkevin UI](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
 [![](https://osu.ppy.sh/ss/18207139/7578)](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
 
-# [Azerino + YUGEN UI](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
+# [Azerino + B&W YUGEN UI](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
 [![](https://osu.ppy.sh/ss/18207228/ff0b)](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
 
 # [haga old mix + santa monica UI](https://github.com/Acrido/osuskins/raw/main/haga.osk)
