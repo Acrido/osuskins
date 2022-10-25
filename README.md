@@ -8,6 +8,9 @@
 last update 22/10/2022
 </p>
 
+# [Aristia DT malisz edit](https://github.com/Acrido/osuskins/raw/main/Artistia%20DT.osk)
+[![](https://osu.ppy.sh/ss/18213568/ae3c)](https://github.com/Acrido/osuskins/raw/main/Artistia%20DT.osk)
+
 # [acrid soft&clean](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
 [![](https://osu.ppy.sh/ss/18207139/7578)](https://github.com/Acrido/osuskins/raw/main/acrid%20soft.osk)
 
