@@ -17,5 +17,5 @@ last update 25/10/2022
 # [Azerino + B&W YUGEN UI](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
 [![](https://osu.ppy.sh/ss/18207228/ff0b)](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
 
-# [haga old mix + santa monica UI](https://github.com/Acrido/osuskins/raw/main/haga.osk)
+# [haga old mix + santa monica and YUGEN UI](https://github.com/Acrido/osuskins/raw/main/haga.osk)
 [![](https://osu.ppy.sh/ss/18207211/e0a7)](https://github.com/Acrido/osuskins/raw/main/haga.osk)
