@@ -9,5 +9,5 @@ last update 25/10/2022
 </p>
 
 
-# [azerino default](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
-[![](https://osu.ppy.sh/ss/18207228/ff0b)](https://github.com/Acrido/osuskins/raw/main/azerino%20default.osk)
+# [azerino default](https://acrid.s-ul.eu/VV1DcXMb)
+[![](https://cdn.discordapp.com/attachments/896281212472156172/1043878166491582504/image.png)](https://acrid.s-ul.eu/VV1DcXMb)
